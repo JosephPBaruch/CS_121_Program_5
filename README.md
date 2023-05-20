@@ -7,4 +7,4 @@ data subjects.
 # Objectives
 - Implement a Binary Search Tree.
 - Create functions manipulating and traversing a BST.
-= Practice reading a external file. 
+- Practice reading a external file. 
